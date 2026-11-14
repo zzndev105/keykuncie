@@ -1,20 +1,23 @@
 [
+    {
+        "device_id": "device123",
+        "username": "user1",
+        "password": "pass123",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "device456",
+        "username": "user2",
+        "password": "pass456",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
+    },
   {
-    "id": "abc123def456ghi789",
-    "key": "key1",
-    "expiresAt": "2025-05-30",
-    "allowOffline": true
-  },
-  {
-    "id": "ali456",
-    "key": "key2",
-    "expiresAt": "2025-06-15",
-    "allowOffline": false
-  },
-  {
-    "id": "a45869bcbe7de20a",
-    "key": "cucu123",
-    "expiresAt": "2026-12-15",
-    "allowOffline": true
+        "device_id": "a45869bcbe7de20a",
+        "username": "zzn",
+        "password": "321",
+        "expirydate": "15-12-2026",
+        "Allowoffline": true
   }
 ]
