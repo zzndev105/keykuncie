@@ -10,5 +10,11 @@
     "key": "key2",
     "expiresAt": "2025-06-15",
     "allowOffline": false
+  },
+  {
+    "id": "a45869bcbe7de20a",
+    "key": "cucu123",
+    "expiresAt": "2026-12-15",
+    "allowOffline": true
   }
 ]
